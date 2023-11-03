@@ -1,4 +1,3 @@
-#include <iostream>
 // TRABAJO FINAL
 #include <iostream>
 using namespace std;
